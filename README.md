@@ -1,4 +1,4 @@
-# File-upload-and-convert into RTL for css
+# Convert CSS from LTR to RTL
 
 It will covert your css which is written in LTR to RTL.
 
