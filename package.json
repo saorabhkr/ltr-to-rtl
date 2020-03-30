@@ -1,7 +1,7 @@
 {
-  "name": "file_upload",
+  "name": "covert_css_lte_to_rtl",
   "version": "0.0.1",
-  "description": "File-upload-in-Node ===================",
+  "description": "covertcsslte_to_rtl via Node",
   "main": "Server.js",
   "author": "",
   "license": "ISC",
