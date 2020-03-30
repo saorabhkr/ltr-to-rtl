@@ -1,0 +1,25 @@
+{
+  "name": "file_upload",
+  "version": "0.0.1",
+  "description": "File-upload-in-Node ===================",
+  "main": "Server.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "css-loader": "^3.4.2",
+    "express": "^4.17.1",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "http": "^0.0.0",
+    "postcss": "^7.0.27",
+    "postcss-loader": "^3.0.0",
+    "postcss-onlyrtl": "^1.7.3",
+    "precss": "^4.0.0",
+    "style-loader": "^1.1.3",
+    "webpack": "^4.42.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.11"
+  }
+}
